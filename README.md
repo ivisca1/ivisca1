@@ -4,7 +4,8 @@ My name is Ismar Višća. I'm a passionate computer science engineer with a Bach
 
 ## 🔧 Technologies & Skills
 
-- **Programming Languages**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=40 width=40 /> 
+- **Programming Languages**:
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=40 width=40 /> 
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=40 width=40 />
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=40 width=40 /> 
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height=40 width=40 />
