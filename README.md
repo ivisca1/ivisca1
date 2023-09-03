@@ -4,16 +4,29 @@ My name is Ismar Višća. I'm a passionate computer science engineer with a Bach
 
 ## 🔧 Technologies & Skills
 
-- **Programming Languages**:
+- **Frontend**: HTML, CSS, JavaScript, React <br><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=40 width=40 />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=40 width=40 />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 width=40 />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 width=40 />
+
+- **Backend**: Java Spring Boot, Node.js <br><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=40 width=40 /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height=40 width=40 />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=40 width=40 />
+          
+- **Mobile App Development**: iOS (Swift), Android (Kotlin) <br><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height=40 width=40 />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height=40 width=40 />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height=40 width=40 />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height=40 width=40 />
+
+- **Other Programming Languages**: C, C++, Python <br><br>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=40 width=40 /> 
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=40 width=40 />
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=40 width=40 /> 
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height=40 width=40 />
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 width=40 />
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40 width=40 />
-- **Software Development**: Object-Oriented Programming (OOP), Design Patterns, Algorithms, Data Structures
-- **Mobile App Development**: iOS (Swift), Android (Java/Kotlin)
-- **Web Development**: HTML, CSS, React Framework
+          
+- **Software Development**: OOP, Design Patterns, Algorithms, Data Structures
 
 ## 🌟 Highlights
 
@@ -24,4 +37,4 @@ My name is Ismar Višća. I'm a passionate computer science engineer with a Bach
 
 ## 🌐 Connect with Me
 
-- 📫 You can reach me via email at [youremail@example.com](mailto:youremail@example.com).
+- 📫 You can reach me via email at [ismar.visca1921@gmail.com](mailto:ismar.visca1921@gmail.com).
